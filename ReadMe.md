@@ -1,5 +1,6 @@
 # 💫 About Me:
 🧑‍💻 I’m currently learning backend things
+Menjadi programmer handal tapi malas ngoding
 
 
 ## 🌐 Socials:
